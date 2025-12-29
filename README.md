@@ -2,7 +2,7 @@
 
 Beautiful, responsive **Tic-Tac-Toe** game built with **React + Vite + CSS Grid**. Fully functional with smooth animations and modern design.
 
-![Tic-Tac-Toe Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=Tic-Tac-Toe+React)
+
 
 ## ✨ **Features**
 - 🎯 **Complete Game Logic** - Win detection, draw handling
